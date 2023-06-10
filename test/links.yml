@@ -36,7 +36,7 @@ navigation_urls:
   - title: 页面1
     url: page1/
   - title: 测试
-    url: page2/
+    url: test/
     active: true
 
 ################
