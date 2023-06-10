@@ -32,7 +32,7 @@ github_url: https://github.com/MadisonWirtanen
 ################
 navigation_urls:
   - title: Homepage of ykwang
-    url: ../link/
+    url: ../links/
   - title: Recommended Links
     url: ../recommended/
     active: true

@@ -15,7 +15,7 @@ jobs:
           npm i -g geneasy
           geneasy -t index.hbs -o public/index.html links.yml
           geneasy -t index.hbs -o public/recommended/index.html recommended/links.yml
-          geneasy -t index.hbs -o public/link/index.html link/links.yml
+          geneasy -t index.hbs -o public/links/index.html links/links.yml
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5
