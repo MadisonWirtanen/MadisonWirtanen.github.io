@@ -44,10 +44,10 @@ navigation_urls:
 ## 网址导航数据
 ################
 categories:
-  - category: 新添加
+  - category: 新添加加加加
     icon: linecons-star
     links:
-      - title: DTOtest1
+      - title: DTO
         logo: https://dto.pipecraft.net/apple-touch-icon-144.png
         url: https://dto.pipecraft.net/
         description: 一个类似 Hacker News, Lobsters 的链接分享社区
