@@ -41,86 +41,89 @@ navigation_urls:
 ## 友情链接数据
 ################
 categories:
-  - category: Star Start
+  - category: 置顶
     icon: linecons-star
     links:
-      - title: ykwang的博客
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/colorsq.png
-        url: https://ykwang.v6.rocks/
-        description: 我的博客网站, 可以留言联系, powered by Halo, 部署于Koyeb
-      - title: Email
+      - title: Z-library
+        logo: https://crowded-coffee-wombat.faviconkit.com/singlelogin.re/64
+        url: https://zlibrary-asia.se/
+        description: 最大的影子图书馆, 可下载期刊文章以及各种类型的书籍
+        tags: 被墙
+      - title: GlaDOS
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/mailicon.png
-        url: mailto:madisonwirtanen@outlook.com
-        description: 点击即可通过电子邮件联系我
+        url: https://glados.space/landing/9PR25-TZB9J-53PWH-NVUDY
+        description: 科学上网/翻墙, 学生及教职工可通过edu邮箱获得365天的时长
 
-  - category: ChatGPT
+  - category: 影子图书馆
     icon: linecons-doc
     links:
-      - title: ChatGPT-Next-Web Public
-        logo: https://cdn.jsdelivr.net/gh/Yidadaa/ChatGPT-Next-Web/docs/images/icon.svg
-        url: https://publicgpt.ykwang.dynv6.net/
-        description: 密码为我的姓名的全拼, 部署于Vercel
-      - title: ChatGPT-Next-Web
-        logo: https://cdn.jsdelivr.net/gh/Yidadaa/ChatGPT-Next-Web/docs/images/icon.svg
-        url: https://chatgpt.ykwang.dynv6.net/
-        description: 自用有加密, 部署于Vercel
-      - title: Pandora
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/pandora-vercel/src/pandora_cloud/flask/static/apple-touch-icon.png
-        url: https://pandora.ykwang.dynv6.net/
-        description: ChatGPT镜像站, 一般可直接使用, 如遇需要登陆可联系我更新Token, 部署于Vercel
-      - title: NewBing
-        logo: https://cdn.jsdelivr.net/gh/adams549659584/go-proxy-bingai/web/favicon.ico
-        url: https://newbing.ykwang.dynv6.net/
-        description: NewBing镜像站, 部署于Vercel
+      - title: Z-library Official
+        logo: https://crowded-coffee-wombat.faviconkit.com/singlelogin.re/64
+        url: https://singlelogin.re/
+        description: Zlibrary起始页面, 你可以登录/创建账号并转到专属链接
+        tags: 被墙
+      - title: Library Genesis
+        logo: https://crowded-coffee-wombat.faviconkit.com/libgen.li/16
+        url: https://libgen.li/
+        description: Library Genesis 创世纪图书馆
+        tags: 被墙
+      - title: 鸠摩搜索
+        logo: https://crowded-coffee-wombat.faviconkit.com/www.jiumodiary.com/64
+        url: https://www.jiumodiary.com/
+        description: 文档搜索引擎
+      - title: 熊猫搜书
+        logo: https://crowded-coffee-wombat.faviconkit.com/xmsoushu.com/64
+        url: https://xmsoushu.com/#/
+        description: 一站式读书学习导航站
 
-  - category: Local
+  - category: 各类资源站
     icon: linecons-doc
     links:
-      - title: Alist
-        logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
-        url: https://alist.madison.dynv6.net/
-        description: 个人影音库, 囿于平台特性, 首次访问可能加载不出, 等待片刻刷新即可, 部署于Render
-      - title: Reader
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/reader/web/public/img/icons/apple-touch-icon.png
-        url: https://reader.siteofwyk.dynv6.net:2023/
-        description: 开源小说/网文阅读, 注册邀请码666666, 仅作试用不定期清理数据， 部署于Zeabur
-      - title: Alist Local
-        logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
-        url: https://chatgpt.siteofwyk.dynv6.net:2023/
-        description: 需IPv6访问, 含未过审内容的个人影音库, 部署于本地
-      - title: ChatGPT-Next-Web Local
-        logo: https://cdn.jsdelivr.net/gh/Yidadaa/ChatGPT-Next-Web/docs/images/icon.svg
-        url: https://chatgpt.siteofwyk.dynv6.net:2023/
-        description: 需IPv6访问, 自用有加密, 部署于本地
-
-  - category: Others
+      - title: 小云搜索
+        logo: https://crowded-coffee-wombat.faviconkit.com/yunso.net/64
+        url: https://yunso.net/
+        description: 网盘搜索引擎
+      - title: MyFreeMP3
+        logo: https://crowded-coffee-wombat.faviconkit.com/tools.liumingye.cn/music/64
+        url: https://tools.liumingye.cn/music/#/
+        description: 音乐试听/下载
+      - title: BT之家
+        logo: https://crowded-coffee-wombat.faviconkit.com/www.btbtt18.com/64
+        url: https://www.btbtt18.com/
+        description: BT种子站, 资源丰富, 无法访问可更改URL中数字18为20以内其余数字尝试
+        tags: 被墙
+      - title: Switch520
+        logo: https://crowded-coffee-wombat.faviconkit.com/xxxxx525.com/64
+        url: https://xxxxx525.com/
+        description: 游戏资源站
+  - category: 工具箱
     icon: linecons-doc
     links:
-      - title: 996.ICU
-        logo: https://cdn.jsdelivr.net/gh/996icu/996.ICU/logo.svg
-        url: https://996.icu/#/zh_CN
-        description: 996.icu, 友情链接
-      - title: 加密通信
-        logo: https://cdn.jsdelivr.net/gh/shadowdreamer/waibibabu/public/favicon.ico
-        url: https://waibibabu.ykwang.dynv6.net/
-        description: 将文字与歪比吧卜/阿巴阿巴互相转换实现加密通信, 部署于Zeabur
-      - title: 羊了个羊
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/yanglegeyang/public/logo.png
-        url: https://yanglegeyang.ykwang.dynv6.net/
-        description: 纯前端实现的羊了个羊系列小游戏, 部署于Vercel
-      - title: 吃掉小鹿乃
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/EatKano@main/static/image/ClickBefore.png
-        url: https://madisonwirtanen.github.io/EatKano/
-        description: 新概念音游, 部署于GitHub Pages
-      - title: AntiOCR
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/default.PNG
-        url: https://madisonwirtanen.github.io/AntiOCR/
-        description: 在图片上随机画点线以干扰文字识别通过公众号审核, 部署于GitHub Pages
-      - title: 图种制作
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/default.PNG
-        url: https://madisonwirtanen.github.io/js-seed-map/
-        description: 图种制作工具, 将压缩包与图片合成一张新图片, 部署于GitHub Pages
-      - title: 114514论证器
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/default.PNG
-        url: https://madisonwirtanen.github.io/homo/
-        description: 一个将任意数字分解成 114514 构成的公式的工具, 部署于GitHub Pages
+      - title: 刘明野的工具箱
+        logo: https://crowded-coffee-wombat.faviconkit.com/tools.liumingye.cn/64
+        url: https://tools.liumingye.cn/
+        description: 刘明野的工具箱提供好用、易用的工具
+      - title: LKs的网站推荐
+        logo: https://crowded-coffee-wombat.faviconkit.com/lkssite.vip/64
+        url: https://lkssite.vip/
+        description: LKs - 良心到难以置信的网站推荐
+      - title: ALL TO ALL
+        logo: https://crowded-coffee-wombat.faviconkit.com/www.alltoall.net/64
+        url: https://www.alltoall.net/
+        description: 在线格式转换网站
+      - title: SMS-Activate
+        logo: https://crowded-coffee-wombat.faviconkit.com/sms-activate.org/64
+        url: https://sms-activate.org/
+        description: 在线接受短信的虚拟号码服务
+      - title: 临时邮箱
+        logo: https://crowded-coffee-wombat.faviconkit.com/24mail.chacuo.net/64
+        url: http://24mail.chacuo.net/
+        description: 在线临时电子邮箱服务
+      - title: 拷贝兔
+        logo: https://crowded-coffee-wombat.faviconkit.com/cp.anyknew.com/64
+        url: https://cp.anyknew.com/
+        description: 轻量跨平台文件分享网页, 可能会报不安全, 继续访问即可
+      - title: SM.MS
+        logo: https://crowded-coffee-wombat.faviconkit.com/smms.app/64
+        url: https://smms.app/
+        description: 图像分享, 免费图床
