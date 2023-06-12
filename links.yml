@@ -61,10 +61,10 @@ categories:
         logo: https://crowded-coffee-wombat.faviconkit.com/www.google.com/64
         url: https://google.ykwang.dynv6.net/
         description: 通过代理直接访问谷歌, 部署于Vercel
-      - title: Wikipedia
-        logo: https://crowded-coffee-wombat.faviconkit.com/zh.wikipedia.org/64
-        url: https://wikipedia.ykwang.dynv6.net/
-        description: 通过代理直接访问维基百科, 部署于Vercel
+      - title: 通用代理
+        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/web.png
+        url: https://proxy.ykwang.dynv6.net/
+        description: 将目标网址去掉前缀添加至此链接后, 如访问https://github.com对应https://proxy.ykwang.dynv6.net/github.com
 
   - category: ChatGPT
     icon: linecons-doc
