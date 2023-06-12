@@ -63,8 +63,8 @@ categories:
         description: 通过代理直接访问谷歌, 部署于Vercel
       - title: 通用代理
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/web.png
-        url: https://www.proxies.dynv6.net/
-        description: 将目标网址去掉前缀添加至此链接后, 如https://www.proxies.dynv6.net/www.example.com
+        url: https://www.proxies.dynv6.net/URL
+        description: 将目标网址去掉前缀替换此链接中的URL, 如访问https://github.com则替换URL为github.com
 
   - category: ChatGPT
     icon: linecons-doc
