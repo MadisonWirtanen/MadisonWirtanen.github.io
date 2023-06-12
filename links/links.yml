@@ -53,6 +53,19 @@ categories:
         url: mailto:madisonwirtanen@outlook.com
         description: 点击即可通过电子邮件联系我
 
+  - category: Proxy
+    hide_menu: true
+    icon: linecons-star
+    links:
+      - title: Google
+        logo: https://crowded-coffee-wombat.faviconkit.com/www.google.com/64
+        url: https://google.ykwang.dynv6.net/
+        description: 通过代理直接访问谷歌, 部署于Vercel
+      - title: Wikipedia
+        logo: https://crowded-coffee-wombat.faviconkit.com/zh.wikipedia.org/64
+        url: https://wikipedia.ykwang.dynv6.net/
+        description: 通过代理直接访问维基百科, 部署于Vercel
+
   - category: ChatGPT
     icon: linecons-doc
     links:
