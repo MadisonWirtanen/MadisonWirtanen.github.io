@@ -63,7 +63,7 @@ categories:
         description: 通过代理直接访问谷歌, 部署于Vercel
       - title: 通用代理
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/web.png
-        url: https://proxy.ykwang.dynv6.net/
+        url: https://www.proxies.dynv6.net/
         description: 将目标网址去掉前缀添加至此链接后, 如访问https://github.com则添加github.com
 
   - category: ChatGPT
