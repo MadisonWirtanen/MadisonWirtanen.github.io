@@ -64,7 +64,7 @@ categories:
       - title: 通用代理
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/web.png
         url: https://www.proxies.dynv6.net/URL
-        description: 将目标网址去掉前缀替换此链接中的URL, 如访问https://github.com则替换URL为github.com
+        description: 将目标网址去掉前缀替换此链接中的URL, 如替换URL为github.com以访问https://github.com
 
   - category: ChatGPT
     icon: linecons-doc
