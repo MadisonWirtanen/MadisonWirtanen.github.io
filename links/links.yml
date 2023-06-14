@@ -13,7 +13,7 @@ title: ykwang
 # 友情链接页面 URL（可选）
 # url: https://links.ykwang.dynv6.net
 # Favicon（可选）
-shortcut_icon: https://img.picgo.net/2023/05/26/1ad7a5c5e71a8fd7f4631c2e99dc0a78d4b627ad616578bf.jpeg
+shortcut_icon: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/sq.png
 # 社交分享图片（可选）
 # og_img: https://avatars.githubusercontent.com/u/96573387?s=200&v=4
 # 主页 URL
@@ -126,14 +126,14 @@ categories:
         url: https://madisonwirtanen.github.io/EatKano/
         description: 新概念音游, 部署于GitHub Pages
       - title: AntiOCR
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/default.PNG
+        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
         url: https://madisonwirtanen.github.io/AntiOCR/
         description: 在图片上随机画点线以干扰文字识别通过公众号审核, 部署于GitHub Pages
       - title: 图种制作
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/default.PNG
+        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
         url: https://madisonwirtanen.github.io/js-seed-map/
         description: 图种制作工具, 将压缩包与图片合成一张新图片, 部署于GitHub Pages
       - title: 114514论证器
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/default.PNG
+        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
         url: https://madisonwirtanen.github.io/homo/
         description: 一个将任意数字分解成 114514 构成的公式的工具, 部署于GitHub Pages
