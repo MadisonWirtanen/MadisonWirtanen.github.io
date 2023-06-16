@@ -91,7 +91,7 @@ categories:
     links:
       - title: Alist
         logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
-        url: https://alist.madison.dynv6.net/
+        url: https://alist.ykwang.dynv6.net/
         description: 个人影音库, 存储于阿里云盘, 部署于Koyeb
       - title: Reader
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/reader/web/public/img/icons/apple-touch-icon.png
