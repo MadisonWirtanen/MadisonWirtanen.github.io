@@ -1,3 +1,9 @@
+> 进行了一些小修正
+> 
+> 出现报错多为`Failed with exit code 128`, 需要在Settings -> Actions -> General -> Workflow permissions选择`Read and write permissions`保存
+>
+> 注意修改links/recommended文件夹名时需同时在.github/workflows/github-pages-deploy.yml中修改对应名
+
 # 网址导航（静态页面通用模板）
 
 <https://geneasy.github.io/nav/>
@@ -7,10 +13,6 @@
 此网址导航页面是使用 [GenEasy](https://github.com/geneasy/geneasy) 文档生成工具 + [WebStack](https://github.com/WebStackPage/WebStackPage.github.io) 模板创建的静态页面，托管在 GitHub Pages 服务器上面。
 
 当修改 `links.yml` 文件里的内容时，**GitHub Actions** 会自动更新 HTML 文件。不需要服务器，不需要数据库。
-
-> 出现报错多为`Failed with exit code 128`, 需要在Settings -> Actions -> General -> Workflow permissions选择`Read and write permissions`保存
-
-注意修改links/recommended文件夹名时需同时在.github/workflows/github-pages-deploy.yml中修改对应名
 
 ## 如何在我的网站里加入这个网址导航页面？
 
