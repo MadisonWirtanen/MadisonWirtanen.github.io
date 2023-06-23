@@ -3,6 +3,9 @@
 > 出现报错多为`Failed with exit code 128`, 需要在Settings -> Actions -> General -> Workflow permissions选择`Read and write permissions`保存
 >
 > 注意修改links/recommended文件夹名时需同时在.github/workflows/github-pages-deploy.yml中修改对应名
+>
+> 使用Vercel部署时可先使用GitHub Pages部署完成后将gh-pages改为主分支, 再直接用Vercel部署本仓库, 并在对应Vercel项目的Settings -> Git -> Production Branch中将Branch Name
+由main修改为gh-pages, 再将主分支改回main, 此后直接在GitHub仓库中修改yml就能在自动部署Github Pages的同时更新Vercel上的部署
 
 # 网址导航（静态页面通用模板）
 
