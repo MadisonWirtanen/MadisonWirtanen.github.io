@@ -78,7 +78,7 @@ categories:
         url: https://chatgpt.ykwang.dynv6.net/
         description: 自用有加密, 部署于Vercel
       - title: Pandora
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/pandora-vercel/src/pandora_cloud/flask/static/apple-touch-icon.png
+        logo: https://cdn.jsdelivr.net/gh/pengzhile/pandora-cloud@master/src/pandora_cloud/flask/static/apple-touch-icon.png
         url: https://pandora.ykwang.dynv6.net/
         description: ChatGPT镜像站, 一般可直接使用, 如遇需要登陆可联系我更新Token, 部署于Vercel
       - title: NewBing
