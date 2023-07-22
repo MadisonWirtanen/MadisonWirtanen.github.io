@@ -47,7 +47,7 @@ categories:
       - title: ykwang的博客
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/colorsq.png
         url: https://ykwang.top/
-        description: 我的博客, 欢迎留言, powered by Halo, 部署于Zeabur
+        description: 我的博客, 欢迎留言, powered by Halo
       - title: Email
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/mailicon.png
         url: mailto:madisonwirtanen@outlook.com
@@ -80,7 +80,7 @@ categories:
       - title: Pandora
         logo: https://cdn.jsdelivr.net/gh/pengzhile/pandora-cloud@master/src/pandora_cloud/flask/static/apple-touch-icon.png
         url: https://pandora.ykwang.dynv6.net/
-        description: ChatGPT镜像站, 一般可直接使用, 如遇需要登陆可联系我更新Token, 部署于Vercel
+        description: ChatGPT镜像站, 如遇需要登陆可联系我更新Token, 部署于Vercel
       - title: NewBing
         logo: https://cdn.jsdelivr.net/gh/adams549659584/go-proxy-bingai/web/favicon.ico
         url: https://newbing.ykwang.dynv6.net/
@@ -91,20 +91,20 @@ categories:
     links:
       - title: Alist
         logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
-        url: https://pan.ykwang.dynv6.net/
-        description: 个人影音库, 存储于阿里云盘, 部署于Render
+        url: https://alist.ykwang.dynv6.net/
+        description: 个人影音库, 存储于阿里云盘, 部署于Koyeb
       - title: Reader
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/reader/web/public/img/icons/apple-touch-icon.png
         url: https://reader.ykwang.dynv6.net/
         description: 开源小说/网文阅读, 注册邀请码666666, 仅作试用不定期清理数据, 部署于Zeabur
       - title: Alist Local
         logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
-        url: https://alist.siteofwyk.dynv6.net:2023/
-        description: 需IPv6访问, 含未过审内容的个人影音库, 部署于本地
+        url: https://alist.ykwang.top/
+        description: 含未过审内容的个人影音库, 部署于本地, Cloudflare代理
       - title: ChatGPT-Next-Web Local
         logo: https://cdn.jsdelivr.net/gh/Yidadaa/ChatGPT-Next-Web/docs/images/icon.svg
-        url: https://chatgpt.siteofwyk.dynv6.net:2023/
-        description: 需IPv6访问, 自用有加密, 部署于本地
+        url: https://chatgpt.ykwang.top/
+        description: API Key来自Azure, 自用有加密, 部署于本地, Cloudflare代理
 
   - category: Others
     icon: linecons-doc
