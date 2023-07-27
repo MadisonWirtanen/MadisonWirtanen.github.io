@@ -31,7 +31,7 @@ github_url: https://github.com/MadisonWirtanen
 ## 导航栏
 ################
 navigation_urls:
-  - title: Homepage of ykwang
+  - title: Nav of ykwang
     url: ../links/
   - title: Recommended Links
     url: ../recommended/

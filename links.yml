@@ -31,7 +31,7 @@ github_url: https://github.com/MadisonWirtanen
 ## 导航栏
 ################
 navigation_urls:
-  - title: Homepage of ykwang
+  - title: Nav of ykwang
     url: ../links/
     active: true
   - title: Recommended Links
@@ -69,14 +69,14 @@ categories:
   - category: ChatGPT
     icon: linecons-doc
     links:
-      - title: ChatGPT-Next-Web Public
-        logo: https://cdn.jsdelivr.net/gh/Yidadaa/ChatGPT-Next-Web/docs/images/icon.svg
-        url: https://publicgpt.ykwang.dynv6.net/
-        description: 密码为我的姓名的全拼, 部署于Vercel
       - title: ChatGPT-Next-Web
         logo: https://cdn.jsdelivr.net/gh/Yidadaa/ChatGPT-Next-Web/docs/images/icon.svg
-        url: https://chatgpt.ykwang.dynv6.net/
-        description: 自用有加密, 部署于Vercel
+        url: https://gpt.ykwang.top/
+        description: 基于API Key的ChatGPT网页应用, 部署于Vercel
+      - title: ChatGPT-Next-Web Azure
+        logo: https://cdn.jsdelivr.net/gh/Yidadaa/ChatGPT-Next-Web/docs/images/icon.svg
+        url: https://chatgpt.ykwang.top/
+        description: API Key来自Azure, 自用有加密, 部署于本地, Cloudflare代理
       - title: Pandora
         logo: https://cdn.jsdelivr.net/gh/pengzhile/pandora-cloud@master/src/pandora_cloud/flask/static/apple-touch-icon.png
         url: https://pandora.ykwang.dynv6.net/
@@ -93,18 +93,18 @@ categories:
         logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
         url: https://alist.ykwang.dynv6.net/
         description: 个人影音库, 存储于阿里云盘, 部署于Koyeb
-      - title: Reader
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/reader/web/public/img/icons/apple-touch-icon.png
-        url: https://reader.ykwang.dynv6.net/
-        description: 开源小说/网文阅读, 注册邀请码666666, 仅作试用不定期清理数据, 部署于Zeabur
       - title: Alist Local
         logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
         url: https://alist.ykwang.top/
         description: 含未过审内容的个人影音库, 部署于本地, Cloudflare代理
-      - title: ChatGPT-Next-Web Local
-        logo: https://cdn.jsdelivr.net/gh/Yidadaa/ChatGPT-Next-Web/docs/images/icon.svg
-        url: https://chatgpt.ykwang.top/
-        description: API Key来自Azure, 自用有加密, 部署于本地, Cloudflare代理
+      - title: Reader
+        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/reader/web/public/img/icons/apple-touch-icon.png
+        url: https://reader.ykwang.top/
+        description: 开源小说/网文阅读, 注册邀请码666666, 部署于本地, Cloudflare代理
+      - title: SPlayer
+        logo: https://cdn.jsdelivr.net/gh/imsyy/SPlayer@dev/public/favicon.ico
+        url: https://music.ykwang.top/
+        description: 网易云音乐解灰, 部署于Zeabur
 
   - category: Others
     icon: linecons-doc
