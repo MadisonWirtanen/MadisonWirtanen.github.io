@@ -17,7 +17,7 @@ shortcut_icon: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-sit
 # 社交分享图片（可选）
 # og_img: https://avatars.githubusercontent.com/u/96573387?s=200&v=4
 # 主页 URL
-home_url: https://ykwang.top/
+home_url: https://nav.ykwang.top/
 # GitHub 链接（可选）
 github_url: https://github.com/MadisonWirtanen
 # 网站 about 链接（可选）
@@ -44,27 +44,27 @@ categories:
   - category: Star
     icon: linecons-star
     links:
-      - title: ykwang的博客
+      - title: ykwangの博客
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/favicon.ico
         url: https://blog.ykwang.top/
-        description: 我的博客, 欢迎留言, powered by Halo
-      - title: Email
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/mailicon.png
-        url: mailto:email@ykwang.top
-        description: 点击即可通过电子邮件联系我
+        description: 我的博客, 欢迎留言
+      - title: ykwangの主页
+        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/homepage.png
+        url: https://www.ykwang.top/
+        description: 我的主页, 欢迎访问
 
-  - category: Proxy
+  - category: Links
     hide_menu: true
     icon: linecons-star
     links:
-      - title: Google
-        logo: https://crowded-coffee-wombat.faviconkit.com/www.google.com/64
-        url: https://google.ykwang.dynv6.net/
-        description: 通过代理直接访问谷歌, 部署于Vercel
       - title: 通用代理
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/web.png
         url: https://www.proxies.dynv6.net/URL
         description: 将目标网址去掉前缀替换此链接中的URL, 如替换URL为github.com以访问https://github.com
+      - title: Email
+        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/mailicon.png
+        url: mailto:email@ykwang.top
+        description: 点击即可通过邮件联系我
 
   - category: ChatGPT
     icon: linecons-doc
