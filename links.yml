@@ -57,14 +57,27 @@ categories:
     hide_menu: true
     icon: linecons-star
     links:
-      - title: 通用代理
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/web.png
-        url: https://www.proxies.dynv6.net/URL
-        description: 将目标网址去掉前缀替换此链接中的URL, 如替换URL为github.com以访问https://github.com
+      - title: ykwangの监测站
+        logo: https://crowded-coffee-wombat.faviconkit.com/monitor.ykwang.top
+        url: https://monitor.ykwang.top/
+        description: 监测网站状态, 图标为绿则均正常, 为红则有故障
       - title: Email
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/mailicon.png
         url: mailto:email@ykwang.top
         description: 点击即可通过邮件联系我
+
+  - category: Proxy
+    hide_menu: true
+    icon: linecons-star
+    links:
+      - title: Vercel代理
+        logo: https://vercel.com/favicon.ico
+        url: https://www.proxies.dynv6.net/URL
+        description: 将目标网址去掉前缀替换此链接中的URL, 如替换URL为github.com以访问https://github.com
+      - title: Cloudflare代理
+        logo: https://www.cloudflare.com/favicon.ico
+        url: https://x.ykwang.top/
+        description: 在目标网址最前方添加x.ykwang.top/, 如x.ykwang.top/https://github.com
 
   - category: ChatGPT
     icon: linecons-doc
@@ -98,7 +111,7 @@ categories:
         url: https://alist.ykwang.top/
         description: 含未过审内容的个人影音库, 部署于本地, Cloudflare代理
       - title: Reader
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/reader/web/public/img/icons/apple-touch-icon.png
+        logo: https://cdn.jsdelivr.net/gh/hectorqin/reader/web/public/img/icons/apple-touch-icon.png
         url: https://reader.ykwang.top/
         description: 开源小说/网文阅读, 注册邀请码666666, 部署于本地, Cloudflare代理
       - title: SPlayer
