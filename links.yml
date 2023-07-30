@@ -31,10 +31,10 @@ github_url: https://github.com/MadisonWirtanen
 ## 导航栏
 ################
 navigation_urls:
-  - title: Nav of ykwang
+  - title: Links of ykwang
     url: ../links/
     active: true
-  - title: Recommended Links
+  - title: Recommended
     url: ../recommended/
 
 ################
@@ -122,10 +122,6 @@ categories:
   - category: Others
     icon: linecons-doc
     links:
-      - title: 996.ICU
-        logo: https://cdn.jsdelivr.net/gh/996icu/996.ICU/logo.svg
-        url: https://996.icu/#/zh_CN
-        description: 996.icu, 友情链接
       - title: 加密通信
         logo: https://cdn.jsdelivr.net/gh/shadowdreamer/waibibabu/public/favicon.ico
         url: https://waibibabu.ykwang.dynv6.net/
