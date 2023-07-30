@@ -122,8 +122,16 @@ categories:
       - title: 拷贝兔
         logo: https://crowded-coffee-wombat.faviconkit.com/cp.anyknew.com/64
         url: https://cp.anyknew.com/
-        description: 轻量跨平台文件分享网页, 可能会报不安全, 继续访问即可
+        description: 轻量跨平台文件分享网页, 可能会报不安全
       - title: SM.MS
         logo: https://crowded-coffee-wombat.faviconkit.com/smms.app/64
         url: https://smms.app/
         description: 图像分享, 免费图床
+      - title: Pexels
+        logo: https://crowded-coffee-wombat.faviconkit.com/www.pexels.com/64
+        url: https://www.pexels.com/
+        description: 免费素材图片服务
+      - title: Flaticon
+        logo: https://crowded-coffee-wombat.faviconkit.com/www.flaticon.com/64
+        url: https://www.flaticon.com/
+        description: 免费矢量图标下载
