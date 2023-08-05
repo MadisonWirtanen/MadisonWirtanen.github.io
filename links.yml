@@ -76,8 +76,8 @@ categories:
         description: 将目标网址去掉前缀替换此链接中的URL, 如替换URL为github.com以访问https://github.com
       - title: Cloudflare代理
         logo: https://www.cloudflare.com/favicon.ico
-        url: https://x.ykwang.top/
-        description: 在目标网址最前方添加x.ykwang.top/, 如x.ykwang.top/https://github.com
+        url: https://proxy.ykwang.top/
+        description: 输入目标网址即可访问, 对Wikipedia等站有优化, 其中Google不定时受限
 
   - category: ChatGPT
     icon: linecons-doc
