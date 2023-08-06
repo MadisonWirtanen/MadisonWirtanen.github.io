@@ -58,6 +58,13 @@
     <meta name="twitter:image" content="{{og_img}}">
     {{/if}}
     <style>
+    @font-face {
+        font-family: 'Pacifico';
+        src: url('https://cdn.ykwang.top/font/Other/Pacifico-Regular.ttf');
+    }
+    h1 {
+        font-family: 'Pacifico', cursive;
+    }
     .logo h1{font-size: 20px; color: #fff}
     .user-info-navbar .user-info-menu>li.hover-line.active:before {
       display: block
@@ -86,7 +93,7 @@
                     <!-- logo -->
                     <div class="logo">
                         <a href="{{home_url}}" class="logo-expanded">
-                            {{#if logo}}<img src="{{logo}}" width="50%" alt="{{title}}" />{{else}}<h1>{{#if site_name}}{{site_name}}{{else}}{{title}}{{/if}}</h1>{{/if}}
+                            {{#if logo}}<img src="{{logo}}" width="100%" alt="{{title}}" />{{else}}<h1>{{#if site_name}}{{site_name}}{{else}}{{title}}{{/if}}</h1>{{/if}}
                         </a>
                     </div>
                     <div class="mobile-menu-toggle visible-xs">
