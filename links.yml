@@ -80,7 +80,7 @@ categories:
         description: 输入目标网址即可访问, 对Wikipedia等站有优化, 其中Google不定时受限
 
   - category: ChatGPT
-    icon: linecons-doc
+    icon: linecons-globe
     links:
       - title: ChatGPT-Next-Web
         logo: https://cdn.jsdelivr.net/gh/Yidadaa/ChatGPT-Next-Web/docs/images/icon.svg
@@ -100,7 +100,7 @@ categories:
         description: NewBing镜像站, 部署于Vercel
 
   - category: Local
-    icon: linecons-doc
+    icon: linecons-cog
     links:
       - title: Alist
         logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
@@ -120,7 +120,7 @@ categories:
         description: 网易云音乐解灰, 部署于Zeabur
 
   - category: Others
-    icon: linecons-doc
+    icon: linecons-note
     links:
       - title: 加密通信
         logo: https://cdn.jsdelivr.net/gh/shadowdreamer/waibibabu/public/favicon.ico
