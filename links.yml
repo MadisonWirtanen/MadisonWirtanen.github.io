@@ -85,11 +85,11 @@ categories:
       - title: ChatGPT-Next-Web
         logo: https://cdn.jsdelivr.net/gh/Yidadaa/ChatGPT-Next-Web/docs/images/icon.svg
         url: https://gpt.ykwang.top/
-        description: 基于API Key的ChatGPT网页应用, 部署于Vercel
-      - title: ChatGPT-Next-Web Azure
-        logo: https://cdn.jsdelivr.net/gh/Yidadaa/ChatGPT-Next-Web/docs/images/icon.svg
-        url: https://chatgpt.ykwang.top/
-        description: API Key来自Azure, 自用有加密, 部署于本地, Cloudflare代理
+        description: 调用API Key的ChatGPT网页应用, 部署于Vercel
+      - title: Ask2End
+        logo: https://cdn.jsdelivr.net/gh/lvwzhen/Ask2End@main/public/favicon.ico
+        url: https://ask.ykwang.top/
+        description: 打破砂锅问到底, 部署于Vercel
       - title: Pandora
         logo: https://cdn.jsdelivr.net/gh/pengzhile/pandora-cloud@master/src/pandora_cloud/flask/static/apple-touch-icon.png
         url: https://pandora.ykwang.dynv6.net/
