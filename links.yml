@@ -120,7 +120,7 @@ categories:
         description: 网易云音乐解灰, 部署于Zeabur
 
   - category: Others
-    icon: linecons-search
+    icon: linecons-inbox
     links:
       - title: 加密通信
         logo: https://cdn.jsdelivr.net/gh/shadowdreamer/waibibabu/public/favicon.ico
