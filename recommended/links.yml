@@ -55,7 +55,7 @@ categories:
         description: 科学上网/翻墙, 学生及教职工可通过edu邮箱获得365天的时长
 
   - category: 影子图书馆
-    icon: linecons-doc
+    icon: linecons-graduation-cap
     links:
       - title: Z-library Official
         logo: https://crowded-coffee-wombat.faviconkit.com/singlelogin.re/64
@@ -77,7 +77,7 @@ categories:
         description: 一站式读书学习导航站
 
   - category: 各类资源站
-    icon: linecons-doc
+    icon: linecons-database
     links:
       - title: 小云搜索
         logo: https://crowded-coffee-wombat.faviconkit.com/yunso.net/64
@@ -97,7 +97,7 @@ categories:
         url: https://xxxxx525.com/
         description: 游戏资源站
   - category: 工具箱
-    icon: linecons-doc
+    icon: linecons-cog
     links:
       - title: 刘明野的工具箱
         logo: https://crowded-coffee-wombat.faviconkit.com/tools.liumingye.cn/64

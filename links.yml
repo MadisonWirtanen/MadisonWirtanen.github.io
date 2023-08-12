@@ -100,7 +100,7 @@ categories:
         description: NewBing镜像站, 部署于Vercel
 
   - category: Local
-    icon: linecons-cog
+    icon: linecons-desktop
     links:
       - title: Alist
         logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
