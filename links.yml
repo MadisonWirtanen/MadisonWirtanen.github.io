@@ -91,7 +91,7 @@ categories:
         url: https://ask.ykwang.top/
         description: 打破砂锅问到底, 部署于Vercel
       - title: Pandora
-        logo: https://cdn.jsdelivr.net/gh/pengzhile/pandora-cloud@master/src/pandora_cloud/flask/static/apple-touch-icon.png
+        logo: https://crowded-coffee-wombat.faviconkit.com/pandora.ykwang.dynv6.net/
         url: https://pandora.ykwang.dynv6.net/
         description: ChatGPT镜像站, 如遇需要登陆可联系我更新Token, 部署于Vercel
       - title: NewBing
@@ -115,19 +115,15 @@ categories:
         url: https://reader.ykwang.top/
         description: 开源小说/网文阅读, 注册邀请码666666, 部署于本地, Cloudflare代理
       - title: SPlayer
-        logo: https://cdn.jsdelivr.net/gh/imsyy/SPlayer@dev/public/favicon.ico
+        logo: https://crowded-coffee-wombat.faviconkit.com/music.ykwang.top/
         url: https://music.ykwang.top/
         description: 网易云音乐解灰, 部署于Zeabur
 
   - category: Others
     icon: linecons-inbox
     links:
-      - title: 加密通信
-        logo: https://cdn.jsdelivr.net/gh/shadowdreamer/waibibabu/public/favicon.ico
-        url: https://waibibabu.ykwang.dynv6.net/
-        description: 将文字与歪比吧卜/阿巴阿巴互相转换实现加密通信, 部署于Zeabur
       - title: 羊了个羊
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/yanglegeyang/public/logo.png
+        logo: https://crowded-coffee-wombat.faviconkit.com/yanglegeyang.ykwang.dynv6.net/
         url: https://yanglegeyang.ykwang.dynv6.net/
         description: 纯前端实现的羊了个羊系列小游戏, 部署于Vercel
       - title: 吃掉小鹿乃
