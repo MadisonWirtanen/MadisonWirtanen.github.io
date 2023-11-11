@@ -91,20 +91,20 @@ categories:
         url: https://ask.ykwang.top/
         description: 打破砂锅问到底, 部署于Vercel
       - title: Pandora
-        logo: https://crowded-coffee-wombat.faviconkit.com/pandora.ykwang.dynv6.net/
-        url: https://pandora.ykwang.dynv6.net/
+        logo: https://crowded-coffee-wombat.faviconkit.com/pandora.ykwang.top/
+        url: https://pandora.ykwang.top/
         description: ChatGPT镜像站, 如遇需要登陆可联系我更新Token, 部署于Vercel
-      - title: NewBing
-        logo: https://cdn.jsdelivr.net/gh/adams549659584/go-proxy-bingai/web/favicon.ico
-        url: https://newbing.ykwang.dynv6.net/
-        description: NewBing镜像站, 部署于Vercel
+      - title: BingAI
+        logo: https://crowded-coffee-wombat.faviconkit.com/bingai.ykwang.top/
+        url: https://bingai.ykwang.top/
+        description: BingAI镜像站, 部署于Vercel
 
   - category: Local
     icon: linecons-desktop
     links:
       - title: Alist
         logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
-        url: https://alist.ykwang.dynv6.net/
+        url: https://pan.ykwang.top/
         description: 个人影音库, 存储于阿里云盘, 部署于Koyeb
       - title: Alist Local
         logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
